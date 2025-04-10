@@ -6,8 +6,8 @@
 ---
 
 ## Ferramentas usadas:
-Visual Studio Code
-Safari
+Visual Studio Code/n
+Safari/n
 Medium e Stackoverflow para consulta
 
 
