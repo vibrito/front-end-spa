@@ -33,5 +33,5 @@ Medium e Stackoverflow para consulta<br />
 
 <br />
 ## Como executar
-
+<br />
 Basta fazer o download do projeto e abrir o arquivo index.html no seu browser, com o projeto de back-end sendo executado e conferir se o endereço no script.js está apontando pro servidor local correto.
