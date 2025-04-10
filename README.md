@@ -13,7 +13,7 @@
 <br />
 # 🥂 Frontend - Menu de Drinks
 <br />
-Este é o frontend simples de uma aplicação de menu de drinks. Ele foi desenvolvido usando apenas HTML, CSS e JavaScript puro, consumindo uma **API Flask** para listar e cadastrar drinks.
+Este é o frontend simples de uma aplicação de menu de drinks. Ele foi desenvolvido usando apenas HTML, CSS e JavaScript puro, consumindo uma API Flask para listar e cadastrar drinks.
 <br />
 
 <br />
